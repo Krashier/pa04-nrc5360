@@ -44,3 +44,4 @@ El desarrollo detallado, diagramas y justificaciones técnicas se encuentran en 
 Video de sustentación
 
 📹 Enlace del video en YouTube: 
+https://youtu.be/KgQbo2TOdl0
