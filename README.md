@@ -42,4 +42,5 @@ Actividad 4 — Cierre grupal. Conclusiones del equipo sobre lo aprendido al com
 El desarrollo detallado, diagramas y justificaciones técnicas se encuentran en /docs/EVALUACIÓN PA04 - 5360.pdf.
 
 Video de sustentación
+
 📹 Enlace del video en YouTube: 
